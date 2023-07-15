@@ -1,7 +1,7 @@
 # Tabletop-Data-Researcher-and-Dice-Roller-
 An application for Dungeons and Dragons' players for quick lookup on game properties and to handle in game math.
 
-Both dice.cpp and main.cpp can be run as they both will give the same outputs. 
+Both dice.cpp and main.cpp can be run as they both will give the same outputs. However, main.cpp will output the result along with the amount of time the request took.
 
 To run, use the g++ compiler:
 
